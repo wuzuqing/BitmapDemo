@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BitmapDemo</string>
+    <string name="accessibility_tip">打卡</string>
+    <string name="accessibility_desc">钉钉打卡</string>
+</resources>

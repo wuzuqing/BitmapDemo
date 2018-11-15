@@ -1,0 +1,58 @@
+{
+  "LOGIN_PHONE": {
+    "key": "LOGIN_PHONE",
+    "name": "登录账户",
+    "normalColor": "#251D1B",
+    "x": 394,
+    "y": 686
+  },
+  "HOME_WORK_KAOQIN": {
+    "key": "HOME_WORK_KAOQIN",
+    "name": "考勤打卡",
+    "normalColor": "#FFFFFF",
+    "x": 939,
+    "y": 1453
+  },
+  "HOME_ME_SETTING_LOGOUT": {
+    "key": "HOME_ME_SETTING_LOGOUT",
+    "name": "退出登录",
+    "normalColor": "#FFFFFF",
+    "x": 539,
+    "y": 1702
+  },
+  "HOME_ME_SETTING": {
+    "key": "HOME_ME_SETTING",
+    "name": "设置",
+    "normalColor": "#FFFFFF",
+    "x": 219,
+    "y": 1425
+  },
+  "HOME_ME": {
+    "key": "HOME_ME",
+    "name": "我的",
+    "normalColor": "#FFFFFF",
+    "x": 971,
+    "y": 1758
+  },
+  "LOGIN_PWD": {
+    "key": "LOGIN_PWD",
+    "name": "登录密码",
+    "normalColor": "#06070A",
+    "x": 96,
+    "y": 910
+  },
+  "LOGIN_LOGIN": {
+    "key": "LOGIN_LOGIN",
+    "name": "登录按钮",
+    "normalColor": "#272727",
+    "x": 534,
+    "y": 1092
+  },
+  "HOME_WORK": {
+    "key": "HOME_WORK",
+    "name": "工作",
+    "normalColor": "#FFFFFF",
+    "x": 539,
+    "y": 1757
+  }
+}
